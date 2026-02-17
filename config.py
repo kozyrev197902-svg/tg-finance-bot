@@ -1,0 +1,7 @@
+BOT_TOKEN = "8541408220:AAFoG6NP3QK_AJRhgRATkS_ghPI4nLoqnaw"
+SPREADSHEET_ID = "1LVv3KDJA737vr9j9QNbDS6z-dSrYhJNj8iDxF1zcGlQ"
+
+SALON_REQUIRED_FOR = [
+    "Заказ",
+    "Инкассация из салона"
+]
